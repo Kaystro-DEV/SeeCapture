@@ -1,3 +1,5 @@
+Current release: SeeCapture v0.2.9 — Mosaic Mode, Polish language support and expanded Seestar model support.
+
 # SeeCapture by KAYSTRO
 
 **Smart telescope control & astrophotography for Windows**
